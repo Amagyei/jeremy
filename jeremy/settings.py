@@ -41,12 +41,14 @@ INSTALLED_APPS = [
 
     # Third-party apps
     "shortuuid",
+    "jazzmin",
     
 
     # Local apps
     "website",
     "chicken",
-    "jazzmin",
+    
+
 
 ]
 
